@@ -1,4 +1,8 @@
-### Bienvenido a Soluvirtus por Antonio Ávila (*Encontrando Soluciones, Exponiendo virtudes.*)
+### Bienvenido a Soluvirtus (*Encontrando Soluciones, Exponiendo virtudes.*)
+### por Antonio Ávila:
+*Un profesional con gustos por la automatización y las pruebas de calidad en el mundo digital.
+Experiencia en aplicaciones web (APIs y UI), dispositivos Android, bases de datos en servidores remotos Linux y virtualización de máquinas.*
+
 ### Estadísticas :
 ![](https://komarev.com/ghpvc/?username=Soluvirtus&style=flat-square)
 
