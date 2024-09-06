@@ -1,3 +1,5 @@
+![Título](https://media.licdn.com/dms/image/v2/D5616AQE2aZkVO1E9Hw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725001587080?e=1730937600&v=beta&t=_XcDP7dhA7YqgYx3O6vfqY0lPO2y6Er7XfkQuIMUsKg)
+
 ### Bienvenido a Soluvirtus (*Encontrando Soluciones, Exponiendo virtudes.*)
 ### por Antonio Ávila:
 *Un profesional con gustos por la automatización y las pruebas de calidad en el mundo digital.
