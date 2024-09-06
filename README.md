@@ -3,6 +3,10 @@
 *Un profesional con gustos por la automatización y las pruebas de calidad en el mundo digital.
 Experiencia en aplicaciones web (APIs y UI), dispositivos Android, bases de datos en servidores remotos Linux y virtualización de máquinas.*
 
+### Herramientas
+
+[Postman](https://www.postman.com/downloads/) | [Selenium](https://www.selenium.dev/downloads/) | Linux (Terminal, Bash) | SSH | Figma | Android Studio | Visual Studio Code | PostgreSQL | Devtools | Node.js | Tasker | Pytest | Request
+
 ### Estadísticas :
 ![](https://komarev.com/ghpvc/?username=Soluvirtus&style=flat-square)
 
