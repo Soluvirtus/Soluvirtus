@@ -7,7 +7,7 @@ Experiencia en aplicaciones web (APIs y UI), dispositivos Android, bases de dato
 
 ### Herramientas
 
-[Postman](https://www.postman.com/downloads/) | [Selenium](https://www.selenium.dev/downloads/) | [Jira](https://www.atlassian.com/software/jira) | Linux (Terminal, Bash) | SSH | Figma | [Android Studio](https://developer.android.com/studio) | Visual Studio Code | PostgreSQL | Devtools | Node.js | Tasker | Pytest | Request | [Github](https://github.com/)
+[Postman](https://www.postman.com/downloads/) | [Selenium](https://www.selenium.dev/downloads/) | [Jira](https://www.atlassian.com/software/jira) | Linux (Terminal, Bash) | SSH | [Figma](https://www.figma.com/) | [Android Studio](https://developer.android.com/studio) | Visual Studio Code | [PostgreSQL](https://www.postgresql.org/) | Devtools | Node.js | Tasker | Pytest | Request | [Github](https://github.com/)
 
 ### Estadísticas :
 ![](https://komarev.com/ghpvc/?username=Soluvirtus&style=flat-square)
