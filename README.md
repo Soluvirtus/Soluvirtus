@@ -19,3 +19,7 @@ Experiencia en aplicaciones web (APIs y UI), dispositivos Android, bases de dato
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=soluvirtus&theme=react-dark&background=000000&hide_border=true" width="100%"/>
 </p>
 
+### Contacto
+
+[Linkedin](https://www.linkedin.com/in/av-soluvirtus)   [Whatsapp](https://bit.ly/4cOB3zS)  
+ [soluvirtus](soluvirtus.com)
