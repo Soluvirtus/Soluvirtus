@@ -1,4 +1,4 @@
-![Título](https://media.licdn.com/dms/image/v2/D5616AQE2aZkVO1E9Hw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725001587080?e=1730937600&v=beta&t=_XcDP7dhA7YqgYx3O6vfqY0lPO2y6Er7XfkQuIMUsKg)
+![Demostración](https://github.com/Soluvirtus/Soluvirtus/blob/main/img/Antonio.png?raw=true)
 
 ### Bienvenido a Soluvirtus (*Encontrando Soluciones, Exponiendo virtudes.*)
 ### por Antonio Ávila:
@@ -22,4 +22,4 @@ Experiencia en aplicaciones web (APIs y UI), dispositivos Android, bases de dato
 ### Contacto
 
 [Linkedin](https://www.linkedin.com/in/av-soluvirtus)   [Whatsapp](https://bit.ly/4cOB3zS)  
- [soluvirtus](soluvirtus.com)
+[soluvirtus](https://soluvirtus.com)
